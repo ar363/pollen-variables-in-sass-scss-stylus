@@ -8,4 +8,6 @@ Nice to have some default vars in SCSS / SASS / Stylus / LESS instead of coming 
 
 Also, SCSS / Stylus vars feel much cleaner to me and have 100% browser support unlike CSS vars which need a polyfill.
 
+---
 
+![cool screenshot](screenshot.png)
